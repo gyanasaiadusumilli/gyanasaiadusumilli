@@ -23,6 +23,7 @@ I'm looking for **entry-level ML Engineer, AI Engineer and Data Scientist roles*
 **Backend and data:** FastAPI, Django, PostgreSQL, Redis, Docker
 
 ### Connect
+- Portfolio: [gyanasaiadusumilli.github.io](https://gyanasaiadusumilli.github.io)
 - Resume: [Gyanasai_Adusumilli_Resume.pdf](Gyanasai_Adusumilli_Resume.pdf)
 - LinkedIn: [linkedin.com/in/gyanasai](https://www.linkedin.com/in/gyanasai)
 - Email: [gadusumi@stevens.edu](mailto:gadusumi@stevens.edu)
