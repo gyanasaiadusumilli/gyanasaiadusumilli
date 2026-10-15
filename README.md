@@ -13,8 +13,8 @@ I'm looking for **entry-level ML Engineer, AI Engineer and Data Scientist roles*
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Water Body Detection](https://github.com/gyanasaiadusumilli/water-body-detection) | Maps surface water from Sentinel-2 and Landsat-8 imagery, comparing five ML models against a U-Net CNN | PyTorch, scikit-learn, Google Earth Engine, Rasterio |
-| [Colon Cancer Detection](https://github.com/gyanasaiadusumilli/colon-cancer-detection) | Classifies colon histopathology images as benign or adenocarcinoma | PyTorch, OpenCV, ResNet, Streamlit |
+| [Water Body Detection](https://github.com/gyanasaiadusumilli/water-body-detection) | Maps surface water from Sentinel-2 and Landsat-8 imagery; U-Net reaches 0.984 water IoU, beating five ML models and index baselines | PyTorch, scikit-learn, Google Earth Engine, Rasterio |
+| [Colon Cancer Detection](https://github.com/gyanasaiadusumilli/colon-cancer-detection) ([live demo](https://colon-cancer-detection-4mfynxys2lkiqpzwvwab44.streamlit.app)) | Classifies colon histopathology images as benign or adenocarcinoma; 100% test accuracy on LC25000 | PyTorch, OpenCV, ResNet, Streamlit |
 
 ### Tech stack
 **Languages:** Python, SQL
@@ -23,5 +23,6 @@ I'm looking for **entry-level ML Engineer, AI Engineer and Data Scientist roles*
 **Backend and data:** FastAPI, Django, PostgreSQL, Redis, Docker
 
 ### Connect
+- Resume: [Gyanasai_Adusumilli_Resume.pdf](Gyanasai_Adusumilli_Resume.pdf)
 - LinkedIn: [linkedin.com/in/gyanasai](https://www.linkedin.com/in/gyanasai)
 - Email: [gadusumi@stevens.edu](mailto:gadusumi@stevens.edu)
