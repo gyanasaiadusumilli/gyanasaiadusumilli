@@ -14,6 +14,7 @@ I'm looking for **entry-level ML Engineer, AI Engineer and Data Scientist roles*
 | Project | What it does | Stack |
 |---|---|---|
 | [Water Body Detection](https://github.com/gyanasaiadusumilli/water-body-detection) | Maps surface water from Sentinel-2 and Landsat-8 imagery; U-Net reaches 0.984 water IoU, beating five ML models and index baselines | PyTorch, scikit-learn, Google Earth Engine, Rasterio |
+| [Hotel Search Ranking](https://github.com/gyanasaiadusumilli/hotel-search-ranking) | Learning-to-rank on 400k Expedia searches; LambdaMART puts the booked hotel in the top 5 for 58.8% of searches (42.4% for the best rule), validated with offline A/B tests | LightGBM, LambdaMART, pandas, scikit-learn |
 | [Colon Cancer Detection](https://github.com/gyanasaiadusumilli/colon-cancer-detection) ([live demo](https://colon-cancer-detection-4mfynxys2lkiqpzwvwab44.streamlit.app)) | Classifies colon histopathology images as benign or adenocarcinoma; 100% test accuracy on LC25000 | PyTorch, OpenCV, ResNet, Streamlit |
 
 ### Tech stack
